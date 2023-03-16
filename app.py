@@ -61,3 +61,6 @@ def actualizar_entrega(id):
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
+
+# Ahora, para probar nuestra API, podemos ejecutar el siguiente comando en la terminal:
+# python app.py
